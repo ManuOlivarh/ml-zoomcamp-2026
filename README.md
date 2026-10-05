@@ -7,6 +7,7 @@ My homework solutions for the [Machine Learning Zoomcamp](https://github.com/Dat
 | Module | Topic | Solution |
 |---|---|---|
 | 01 | Introduction to Machine Learning | [01-intro/homework.ipynb](01-intro/homework.ipynb) |
+| 02 | Machine Learning for Regression | [02-regression/homework.ipynb](02-regression/homework.ipynb) |
 
 ## Environment
 
