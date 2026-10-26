@@ -10,6 +10,7 @@ My homework solutions for the [Machine Learning Zoomcamp](https://github.com/Dat
 | 02 | Machine Learning for Regression | [02-regression/homework.ipynb](02-regression/homework.ipynb) |
 | 03 | Machine Learning for Classification | [03-classification/homework.ipynb](03-classification/homework.ipynb) |
 | 04 | Evaluation Metrics for Classification | [04-evaluation/homework.ipynb](04-evaluation/homework.ipynb) |
+| 05 | Deploying Machine Learning Models | [05-deployment/](05-deployment/) |
 
 ## Environment
 

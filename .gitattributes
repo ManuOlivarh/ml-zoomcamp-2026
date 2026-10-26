@@ -1,0 +1,4 @@
+# Keep deployment files byte-identical to the course release (checksums depend on LF)
+05-deployment/*.json text eol=lf
+05-deployment/uv.lock text eol=lf
+05-deployment/pipeline.bin binary
