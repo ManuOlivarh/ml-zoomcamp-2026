@@ -1,0 +1,5 @@
+.venv/
+model.bin
+notebook.ipynb
+.ipynb_checkpoints/
+__pycache__/

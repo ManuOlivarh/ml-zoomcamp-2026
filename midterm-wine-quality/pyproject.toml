@@ -1,0 +1,20 @@
+[project]
+name = "wine-quality"
+version = "0.1.0"
+description = "ML Zoomcamp 2026 midterm project: predicting good-quality wines from their chemistry"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "fastapi>=0.115",
+    "numpy>=2.0",
+    "pandas>=2.2",
+    "scikit-learn>=1.6",
+    "uvicorn>=0.30",
+    "xgboost>=2.1",
+]
+
+[dependency-groups]
+dev = [
+    "jupyter>=1.1",
+    "matplotlib>=3.9",
+    "seaborn>=0.13",
+]

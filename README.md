@@ -13,6 +13,12 @@ My homework solutions for the [Machine Learning Zoomcamp](https://github.com/Dat
 | 05 | Deploying Machine Learning Models | [05-deployment/](05-deployment/) |
 | 06 | Decision Trees and Ensemble Learning | [06-trees/homework.ipynb](06-trees/homework.ipynb) |
 
+## Projects
+
+| Project | Topic | Folder |
+|---|---|---|
+| Midterm | Predicting good wines from their chemistry | [midterm-wine-quality/](midterm-wine-quality/) |
+
 ## Environment
 
 ```bash
